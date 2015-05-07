@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM debian:jessie
 MAINTAINER Rick Guyer <ricoguyer@gmail.com>
 # Borrowed from https://registry.hub.docker.com/u/jprjr/ubuntu-php-fpm/dockerfile/
 
